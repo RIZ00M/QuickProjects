@@ -21,7 +21,3 @@ This repository contains various projects built to practise programming, explore
 - Java
 - Python
 - HTML, CSS and JavaScript
-
----
-
-Created by [RIZ00M](https://github.com/RIZ00M).
