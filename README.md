@@ -6,9 +6,8 @@ A collection of small projects and coding experiments.
 
 ```text
 QuickProjects/
-├── Project1/
-├── Project2/
-├── Project3/
+├── CodeSamples/
+├── CyberSecurity/
 └── README.md
 ```
 
